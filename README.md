@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Minato235
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Minato235/Minato235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Things I like and things I hate? I don't feel like telling you that...
+- 🌱  my dreams for the future? Never really thought about that
+- 💞️ my dreams for the future? Never really thought about that.
+- 👀 as for my hobbies... I have lots of hobbies."
+- 📫 How to reach me ...darkaashe@gmail.com
