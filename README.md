@@ -6,7 +6,6 @@
 
 	•	Languages: Python, JavaScript, Java
 	•	Frameworks: React, Node.js, Spring
-	•	Tools: Git, Docker, Kubernetes
 
 🌱 Full-stack developer, continuously honing my skills in both frontend and backend technologies.
 
